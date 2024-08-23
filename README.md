@@ -92,3 +92,7 @@ print("RMSE= ",rmse)
 
 ## Testing Set:
 ![WhatsApp Image 2024-08-23 at 08 27 55_a36ea381](https://github.com/user-attachments/assets/bfcce3da-1158-4135-93a2-cf6dc515cc78)
+
+## Result:
+
+Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
